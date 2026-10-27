@@ -28,6 +28,3 @@ dist-ssr
 .env.*
 *.env
 !.env.example
-
-# Exclude README per instruction
-README.md
